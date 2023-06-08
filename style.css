@@ -137,10 +137,6 @@ body {
     color: var(--cor-do-botao);
 }
 
-.rodape__links a:active {
-    background-color: var(--cor-botao-selecao);
-}
-
 .rodape__links__item {
     list-style-type: none;
 }
